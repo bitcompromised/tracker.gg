@@ -3,7 +3,7 @@
 // @namespace    https://tracker.gg/
 // @version      1.2.0
 // @description  Cuts tracker.gg's CPU and memory use: blocks the ad/prebid/cookie-sync stack (19+ third-party iframes), kills the floating Primis video player, reaps stray frames, collapses ad space, and adds a live perf HUD. Alt+O for settings.
-// @author       eadan
+// @author       bitcompromised
 // @match        https://tracker.gg/*
 // @match        https://*.tracker.gg/*
 // @run-at       document-start
