@@ -1,3 +1,4 @@
+
 # Tracker.gg Optimizer
 
 A Tampermonkey userscript that cuts tracker.gg's memory and CPU use by stopping its
@@ -8,6 +9,7 @@ advertising stack from loading at all.
 - **Runs on:** `https://tracker.gg/*`, `https://*.tracker.gg/*`
 - **Settings:** `Alt+O`
 
+![Alt text](./image.png)
 ---
 
 ## Why the site is slow
